@@ -7,6 +7,7 @@
 - For Dynamics we have used the following functions
   - ***find_alpha_cl.m*** : This function calculates the effective angle between the chord of each segment and the horizontal i.e. including the *Angle of Twist* and the *Angle between the Vertical and tangential velocity*. 
   - ***find_surface_area.m*** : This function calculates the effective surface area that provides the Lift.
+  - ***Maple.m*** : This script contains the equations to calculate Lift, Drag, distance, velocity, acceleration, angular velocity and angular acceleration using the above functions.
 ## To execute
 - Dowload and unzip all the MATLAB codes(*.m files*) into the same folder.
 - Then run the MATLAB script ***Maple.m*** to generate the plots  
